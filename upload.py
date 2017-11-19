@@ -1,5 +1,6 @@
 import time, os
 
+os.system("git pull")
 while True:
 	os.system("git status")
 	os.system("git add -A .")
